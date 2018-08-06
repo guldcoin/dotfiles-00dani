@@ -1,0 +1,19 @@
+[user]
+	username = 00dani
+	name = Danielle McLean
+	location = horseland!!
+	bio = a trans lesbian pony ~ there be horses here ~ https://pronoun.is/she
+	website = 00dani.tumblr.com
+[commit]
+	gpgsign = true
+[aliases]
+	keybase = 00dani
+	twitter = 00d4n1
+	github = 00dani
+	reddit = 00dani
+	hackernews = 00dani
+	facebook = 00d4n1
+	npm = 00dani
+[addresses]
+bitcoin[] = 1JVfMY3tpRvLvCxWiVzYfPPCt4uQJJUReU
+zcash[] = zccup7jt8YjKtMWerYGEbxnvWiBkcgifMCdX1jcvAzi1EToe2JQw64fWMAesLuZYQxzY4VZLR8myVZ7KBnwFq77o6mrfLdm
